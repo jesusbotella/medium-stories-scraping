@@ -1,0 +1,475 @@
+[
+  {
+    "name": "Today’s top stories",
+    "stories": [
+      {
+        "id": "b124c405c193",
+        "link": "https://slack.engineering/rebuilding-slack-com-b124c405c193?source=reading_list---8------0----------------",
+        "date": "2017-10-11T15:01:04.433Z",
+        "title": "Rebuilding slack.com",
+        "description": "A redesign powered by CSS Grid and optimized for performance and accessibility.",
+        "author": "Mina Markham",
+        "image": "https://cdn-images-1.medium.com/max/800/1*N48fpqutpCqswRistXpymw.jpeg"
+      },
+      {
+        "id": "57e5883cde36",
+        "link": "https://medium.com/@zoebrock/harvey-weinstein-and-i-at-the-hotel-du-cap-57e5883cde36?source=reading_list---8------1----------------",
+        "date": "2017-10-07T22:13:51.434Z",
+        "title": "Harvey Weinstein and I at The Hotel Du Cap",
+        "description": "I was only 23 when I was ‘Harveyed’. It was 1997. I was a street smart kid with a tougher skin than most…",
+        "author": "Zoë Brock",
+        "image": null
+      },
+      {
+        "id": "6e9163216052",
+        "link": "https://blog.medium.com/words-still-matter-6e9163216052?source=reading_list---8------2----------------",
+        "date": "2017-10-10T16:07:56.557Z",
+        "title": "Words still matter",
+        "description": "Medium’s mission — five years in",
+        "author": "Ev Williams",
+        "image": "https://cdn-images-1.medium.com/max/800/1*7HPP-1kyq-BS-Df2x9KlNw.jpeg"
+      },
+      {
+        "id": "3c0bcaa1afd6",
+        "link": "https://medium.freecodecamp.org/the-times-ive-messed-up-as-a-developer-3c0bcaa1afd6?source=reading_list---8------3----------------",
+        "date": "2017-10-10T11:36:37.273Z",
+        "title": "A brief dive into 2 times I clearly had no clue what I was doing as a developer",
+        "description": null,
+        "author": "Zachary Kuhn",
+        "image": "https://cdn-images-1.medium.com/max/800/1*6dix1lxlAXUO7Gg4EPjgBg.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Audio",
+    "stories": [
+      {
+        "id": "320c10b24969",
+        "link": "https://medium.com/@dorn.anna/courtroom-sexism-from-marcia-clark-to-now-320c10b24969?source=reading_list---8------0----------------",
+        "date": "2017-10-09T21:26:59.381Z",
+        "title": "Courtroom Sexism, from Marcia Clark to Now",
+        "description": "While the O.J. Simpson trial was perhaps best known for its fraught racial politics, FX’s The People v. O.J. Simpson demonstrated, via…",
+        "author": "anna dorn",
+        "image": "https://cdn-images-1.medium.com/max/800/1*rE_kyetfcbze-bCgVOqpAw.jpeg"
+      },
+      {
+        "id": "bafe1d770b1b",
+        "link": "https://medium.com/@spencerbaum/tolstoy-art-and-the-great-comet-bafe1d770b1b?source=reading_list---8------1----------------",
+        "date": "2017-09-15T19:46:47.527Z",
+        "title": "Tolstoy, Art, and The Great Comet",
+        "description": "A Meditation on Tolstoy’s Enduring Brilliance and The Passage From War & Peace That Inspired Natasha, Pierre, and The GreatComet of 1812",
+        "author": "Spencer Baum",
+        "image": "https://cdn-images-1.medium.com/max/800/1*9-NDULfW0i2Ymq8uABjUBQ.jpeg"
+      },
+      {
+        "id": "eb3f99b35a81",
+        "link": "https://medium.com/s/search-terms/bass-b-w-gold-eb3f99b35a81?source=reading_list---8------2----------------",
+        "date": "2017-10-10T19:17:06.236Z",
+        "title": "Bass b/w Gold",
+        "description": "The sounds and shades of ‘Blade Runner 2049’",
+        "author": "Sasha Frere-Jones",
+        "image": "https://cdn-images-1.medium.com/max/800/1*VDR_yQ0WIw5DjWIQGRyByA.jpeg"
+      },
+      {
+        "id": "281f2570bf01",
+        "link": "https://medium.com/basic-income/the-expanses-basic-support-vs-unconditional-basic-income-281f2570bf01?source=reading_list---8------3----------------",
+        "date": "2017-10-02T22:22:35.233Z",
+        "title": "The Expanse’s Basic Support vs. Unconditional Basic Income",
+        "description": "How not to meet humanity’s basic needs in our automated future",
+        "author": "Scott Santens",
+        "image": "https://cdn-images-1.medium.com/max/800/0*awYMs1Zkty8gSfeC.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Member exclusives",
+    "stories": [
+      {
+        "id": "eafca37ae386",
+        "link": "https://medium.com/@truthshores/the-poor-cant-even-be-poor-eafca37ae386?source=reading_list---8------0----------------",
+        "date": "2017-10-11T16:34:44.303Z",
+        "title": "The Poor can’t even be Poor",
+        "description": "(How everything, including Poverty, gets Co-opted)",
+        "author": "Fox Kerry",
+        "image": "https://cdn-images-1.medium.com/max/800/1*7cqf55c5PyqZD-isqbM2Hg.jpeg"
+      },
+      {
+        "id": "11a41c123fc4",
+        "link": "https://medium.com/@haikutography/remember-who-you-are-11a41c123fc4?source=reading_list---8------1----------------",
+        "date": "2017-10-11T16:19:21.199Z",
+        "title": "Remember Who You Are",
+        "description": "Are ‘we the sheeple’ the new sign of the times?",
+        "author": "S Lynn Knight",
+        "image": "https://cdn-images-1.medium.com/max/800/1*gW7dhYPCdWeA5tiqJvhgYg.jpeg"
+      },
+      {
+        "id": "95ef1e0c2851",
+        "link": "https://betterhumans.coach.me/cant-kick-a-bad-habit-you-re-probably-doing-it-wrong-95ef1e0c2851?source=reading_list---8------2----------------",
+        "date": "2017-10-11T15:39:12.556Z",
+        "title": "Can’t Kick a Bad Habit? You’re Probably Doing It Wrong",
+        "description": "I had just finished giving a speech on building habits when a woman in the audience exclaimed, “You teach how to create habits, but that’s…",
+        "author": "Nir Eyal",
+        "image": "https://cdn-images-1.medium.com/max/800/1*XryqWHJZ4cd5MnqlOE-lxw.png"
+      },
+      {
+        "id": "b108c135af26",
+        "link": "https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26?source=reading_list---8------3----------------",
+        "date": "2017-10-10T22:47:04.748Z",
+        "title": "Software Engineering is different from Programming",
+        "description": "All software engineers can program, but not all programmers can engineer software",
+        "author": "Samer Buna",
+        "image": "https://cdn-images-1.medium.com/max/800/1*ZJcE4D_FuHlKrn17uEFDfw.png"
+      }
+    ]
+  },
+  {
+    "name": "Today’s staff picks",
+    "stories": [
+      {
+        "id": "395af5253674",
+        "link": "https://medium.com/ginsudo/youre-wrong-about-second-amendment-rights-395af5253674?source=reading_list---8------0----------------",
+        "date": "2017-10-08T21:59:49.000Z",
+        "title": "You’re wrong about Second Amendment rights",
+        "description": "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be…",
+        "author": "Gene Yoon",
+        "image": "https://cdn-images-1.medium.com/max/800/1*Oc92VR-TAqKXIewAdIzX-g.jpeg"
+      },
+      {
+        "id": "eafca37ae386",
+        "link": "https://medium.com/@truthshores/the-poor-cant-even-be-poor-eafca37ae386?source=reading_list---8------1----------------",
+        "date": "2017-10-11T16:34:44.303Z",
+        "title": "The Poor can’t even be Poor",
+        "description": "(How everything, including Poverty, gets Co-opted)",
+        "author": "Fox Kerry",
+        "image": "https://cdn-images-1.medium.com/max/800/1*7cqf55c5PyqZD-isqbM2Hg.jpeg"
+      },
+      {
+        "id": "bc1c65f9cc0a",
+        "link": "https://medium.com/@zaron3/why-democrats-should-adopt-the-black-panthers-10-point-program-bc1c65f9cc0a?source=reading_list---8------2----------------",
+        "date": "2017-10-10T19:27:13.363Z",
+        "title": "Why Democrats Should Adopt the Black Panthers’ Ten Point Program",
+        "description": "“I do think there’s a fundamental mismatch between how I approach politics and what a lot of the country wanted to hear in 2016. When…",
+        "author": "Zaron Burnett III",
+        "image": "https://cdn-images-1.medium.com/max/800/1*ErSkp4lUFRTou7BqtSd56g.jpeg"
+      },
+      {
+        "id": "7ed2d9820c48",
+        "link": "https://medium.com/@yonatanzunger/asking-the-right-questions-about-ai-7ed2d9820c48?source=reading_list---8------3----------------",
+        "date": "2017-10-12T04:25:49.049Z",
+        "title": "Asking the Right Questions About AI",
+        "description": "In the past few years, we’ve been deluged with discussions of how artificial intelligence (AI) will either save or destroy the world. Self…",
+        "author": "Yonatan Zunger",
+        "image": "https://cdn-images-1.medium.com/max/800/1*b5oXUYY-RgHl8DqVCQbmqQ.jpeg"
+      },
+      {
+        "id": "6e9163216052",
+        "link": "https://blog.medium.com/words-still-matter-6e9163216052?source=reading_list---8------4----------------",
+        "date": "2017-10-10T16:07:56.557Z",
+        "title": "Words still matter",
+        "description": "Medium’s mission — five years in",
+        "author": "Ev Williams",
+        "image": "https://cdn-images-1.medium.com/max/800/1*7HPP-1kyq-BS-Df2x9KlNw.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Technology",
+    "stories": [
+      {
+        "id": "335ae599f1c4",
+        "link": "https://medium.com/bloomberg/airbnb-branded-apartment-buildings-are-coming-to-the-u-s-335ae599f1c4?source=reading_list---8------0----------------",
+        "date": "2017-10-12T13:00:00.001Z",
+        "title": "Airbnb-Branded Apartment Buildings Are Coming to the U.S.",
+        "description": "By Olivia Zaleski",
+        "author": "Bloomberg",
+        "image": "https://cdn-images-1.medium.com/max/800/1*GijKw-n0v8MwQWX-lZrpWw.jpeg"
+      },
+      {
+        "id": "e5483725e219",
+        "link": "https://medium.com/the-atlantic/what-facebook-did-to-american-democracy-e5483725e219?source=reading_list---8------1----------------",
+        "date": "2017-10-12T16:40:38.111Z",
+        "title": "What Facebook Did to American Democracy",
+        "description": "And why it was so hard to see it coming.",
+        "author": "Alexis C. Madrigal",
+        "image": "https://cdn-images-1.medium.com/max/800/1*GeeNkbc5tx0vHgldMxw2Sw.png"
+      },
+      {
+        "id": "92444cf04818",
+        "link": "https://medium.com/bloomberg-view/go-to-sleep-alexa-its-not-ok-google-92444cf04818?source=reading_list---8------2----------------",
+        "date": "2017-10-12T16:23:26.491Z",
+        "title": "Go to Sleep, Alexa. It’s Not OK, Google",
+        "description": "If you’re planning to buy a voice-activated speaker, consider what happened to a Google Home Mini tester.",
+        "author": "Bloomberg View",
+        "image": "https://cdn-images-1.medium.com/max/800/1*TFUKZFDJYDxSM0-xhTai5A.jpeg"
+      },
+      {
+        "id": "e15d45d9b0e7",
+        "link": "https://medium.com/@FastCompany/spotifys-new-app-aims-to-hook-artists-on-the-power-of-their-own-data-e15d45d9b0e7?source=reading_list---8------3----------------",
+        "date": "2017-10-12T10:53:26.000Z",
+        "title": "Spotify’s New App Aims To Hook Artists On The Power Of Their Own Data",
+        "description": "Spotify is making its listener data more accessible to hungry artists with the launch of a new analytics app.",
+        "author": "Fast Company",
+        "image": "https://cdn-images-1.medium.com/max/800/1*VLzFs4_GeYCJITfL2tqcpg.png"
+      },
+      {
+        "id": "c300d0d08626",
+        "link": "https://medium.com/inc./now-your-google-assistant-can-help-you-get-a-date-what-could-be-next-c300d0d08626?source=reading_list---8------4----------------",
+        "date": "2017-10-12T14:43:34.894Z",
+        "title": "Now Your Google Assistant Can Help You Get a Date — What Could Be Next?",
+        "description": "Dating app Plenty of Fish is first on Google Home, allowing voice communication in place of email via Google Assistant.",
+        "author": "inc. magazine",
+        "image": "https://cdn-images-1.medium.com/max/800/1*x9xICOT_nMKR3xiSVm0sYQ.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Creativity",
+    "stories": [
+      {
+        "id": "17cd2dee998d",
+        "link": "https://medium.com/fast-company/the-secrets-of-disneyland-a-company-vet-explains-how-the-magic-happens-17cd2dee998d?source=reading_list---8------0----------------",
+        "date": "2017-10-12T13:00:00.000Z",
+        "title": "The Secrets Of Disneyland: A Company Vet Explains How The Magic Happens",
+        "description": "In a new book, Jody Jean Dreyer shares 30 years of insight into making the Happiest Place on Earth . . . the happiest placeon earth.",
+        "author": "Fast Company",
+        "image": "https://cdn-images-1.medium.com/max/800/1*t2oH1G0zWxYd5-6CWq81Lg.jpeg"
+      },
+      {
+        "id": "6d1dda301d17",
+        "link": "https://artplusmarketing.com/lets-not-put-story-before-character-6d1dda301d17?source=reading_list---8------1----------------",
+        "date": "2017-10-11T20:05:29.198Z",
+        "title": "Let’s Not Put Story Before Character",
+        "description": "It has long been a standard of practice that concept tends to come before the character. We as writer tend to spend our energy on trying to…",
+        "author": "Glory Anna",
+        "image": "https://cdn-images-1.medium.com/max/800/1*swIbaCl0_tkdWtQt6wXAsw.jpeg"
+      },
+      {
+        "id": "44292f439dbb",
+        "link": "https://medium.com/@cintagarca/beat-writers-block-with-this-game-44292f439dbb?source=reading_list---8------2----------------",
+        "date": "2017-10-11T16:06:46.905Z",
+        "title": "Beat Writer’s Block with This Game!",
+        "description": "I have a creative writing technique to help you beat writer’s block. And it is a game we will call “IMAGINE THAT…”",
+        "author": "Cinta García",
+        "image": null
+      },
+      {
+        "id": "37ff4791f8c0",
+        "link": "https://medium.com/@writersafterdark/constraint-and-creativity-a-great-story-needs-both-37ff4791f8c0?source=reading_list---8------3----------------",
+        "date": "2017-10-11T14:32:54.295Z",
+        "title": "Constraint and Creativity — A Great Story Needs Both",
+        "description": "An author’s job isn’t just to string words into plots. An author must govern the words, wrestle them into place, make them do his or her…",
+        "author": "WRITERS AFTER DARK",
+        "image": "https://cdn-images-1.medium.com/max/800/1*-Hps9eiTPx2yiiWnPhko3Q.jpeg"
+      },
+      {
+        "id": "c4e0977106b7",
+        "link": "https://medium.com/@chrisprice1955/i-am-not-writing-enough-c4e0977106b7?source=reading_list---8------4----------------",
+        "date": "2017-10-11T12:36:13.984Z",
+        "title": "I Am Not Writing Enough",
+        "description": "The late Stanley Ralph Ross, my Comedy Writing professor at USC, always said:",
+        "author": "Chris Price",
+        "image": "https://cdn-images-1.medium.com/max/800/1*U-xzn_S4XcTcQZR2FX4hdw.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Entrepreneurship",
+    "stories": [
+      {
+        "id": "310404d5d664",
+        "link": "https://medium.com/inc./what-these-3-male-business-owners-learned-about-what-women-want-310404d5d664?source=reading_list---8------0----------------",
+        "date": "2017-10-11T18:48:06.142Z",
+        "title": "What These 3 Male Business Owners Learned About What Women Want",
+        "description": "There’s more to the strategy than you might imagine.",
+        "author": "inc. magazine",
+        "image": "https://cdn-images-1.medium.com/max/800/1*mJQBS00WI2m_x3uXLdpV6g.jpeg"
+      },
+      {
+        "id": "9ab5fd1173aa",
+        "link": "https://medium.com/iotforall/an-american-in-paris-why-im-looking-for-tech-opportunities-in-france-9ab5fd1173aa?source=reading_list---8------1----------------",
+        "date": "2017-10-10T14:26:01.048Z",
+        "title": "An American in Paris — Why I’m looking for tech opportunities in France",
+        "description": "France is becoming the new Silicon Valley.",
+        "author": "Bryan M Eagle III",
+        "image": "https://cdn-images-1.medium.com/max/800/0*o7FXwm9xSNriMsXo.jpg"
+      },
+      {
+        "id": "4aab4cce882e",
+        "link": "https://medium.com/@IrrfanAk/7-critical-mistakes-that-can-kill-your-business-4aab4cce882e?source=reading_list---8------2----------------",
+        "date": "2017-10-10T13:40:13.506Z",
+        "title": "7 Critical Mistakes That Can Kill Your Business",
+        "description": "Being an entrepreneur is like engaging in a war where you must have both sides to win. It is an ultimate mental challenge, requiring a…",
+        "author": "Irfan Ahmed Khan",
+        "image": "https://cdn-images-1.medium.com/max/800/1*B0dToQ6bRuoybPKJVBvC1Q.jpeg"
+      },
+      {
+        "id": "1a0190d87996",
+        "link": "https://northwesternbusinessreview.org/france-a-startup-nation-1a0190d87996?source=reading_list---8------3----------------",
+        "date": "2017-10-09T22:29:14.244Z",
+        "title": "France — A “Startup Nation?”",
+        "description": "With a third of the nation’s venture capital funding being funneled into the region and thousands of startups calling it home, Silicon…",
+        "author": "Jasmine Teng",
+        "image": "https://cdn-images-1.medium.com/max/800/1*JngIOsGMq1juBwezyojhKw.png"
+      },
+      {
+        "id": "2953c6e2daa7",
+        "link": "https://entrepreneurs.maqtoob.com/teaching-entrepreneurship-2953c6e2daa7?source=reading_list---8------4----------------",
+        "date": "2017-10-09T18:05:18.342Z",
+        "title": "Teaching Entrepreneurship",
+        "description": "More Crucial Than Ever in a World of Globally Competitive Business",
+        "author": "Joel Cannon",
+        "image": "https://cdn-images-1.medium.com/max/800/1*ahYnF63-WxdTPe4mcPhOkg.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Culture",
+    "stories": [
+      {
+        "id": "d9ef1621bd9",
+        "link": "https://medium.com/s/timeline-of-sounds/the-night-is-your-alone-d9ef1621bd9?source=reading_list---8------0----------------",
+        "date": "2017-10-12T18:28:25.411Z",
+        "title": "The Night Is Your Alone",
+        "description": "R.E.M., soul food, and death",
+        "author": "Hanif Abdurraqib",
+        "image": "https://cdn-images-1.medium.com/max/800/1*fUQcJxH2WydDybZ9X9e87g.png"
+      },
+      {
+        "id": "f90178ce521",
+        "link": "https://medium.com/cnn-opinion/eminem-a-rare-white-artist-speaks-out-for-his-black-fans-f90178ce521?source=reading_list---8------1----------------",
+        "date": "2017-10-12T17:48:11.471Z",
+        "title": "Eminem, a rare white artist speaks out for his black fans",
+        "description": "By Kerra L. Bolton",
+        "author": "CNN",
+        "image": "https://cdn-images-1.medium.com/max/800/1*cQHdmhTs-0-7H20pkbr4zQ.jpeg"
+      },
+      {
+        "id": "9f525e862a31",
+        "link": "https://medium.com/the-cut/the-king-of-cultivating-cool-9f525e862a31?source=reading_list---8------2----------------",
+        "date": "2017-10-11T18:10:57.611Z",
+        "title": "The King of Cultivating Cool",
+        "description": "Brian Phillips, founder of PR agency Black Frame, has the perfect combination of taste and ambition.",
+        "author": "The Cut",
+        "image": "https://cdn-images-1.medium.com/max/800/1*27tgf95uYj8tOFgWT5CGwA.png"
+      },
+      {
+        "id": "7f147d2cfad1",
+        "link": "https://medium.com/s/technically-dead/after-life-the-quest-for-immortality-7f147d2cfad1?source=reading_list---8------3----------------",
+        "date": "2017-10-12T00:47:23.425Z",
+        "title": "After Life: The Quest for Immortality",
+        "description": "Since the beginning of recorded history, it seems, humankind has been searching for the Fountain of Youth. Tales of such a pool appear in…",
+        "author": "Tessa Love",
+        "image": "https://cdn-images-1.medium.com/max/800/1*tiqUCdRsPA4qtJcmHX0owQ.jpeg"
+      },
+      {
+        "id": "f10e9b664242",
+        "link": "https://medium.com/s/secret-history-of-feminism-in-film/real-feminists-dance-in-their-underwear-f10e9b664242?source=reading_list---8------4----------------",
+        "date": "2017-10-12T00:34:41.926Z",
+        "title": "Real Feminists Dance in Their Underwear",
+        "description": "How 1978’s ‘An Unmarried Woman’ brought feminism to the masses",
+        "author": "Cammila Collar",
+        "image": "https://cdn-images-1.medium.com/max/800/1*HVStI8E_Pz2uHmf6YNbQlA.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Self",
+    "stories": [
+      {
+        "id": "43399bec60a1",
+        "link": "https://medium.com/@katiemaeonline/trust-you-intuition-i-never-lies-43399bec60a1?source=reading_list---8------0----------------",
+        "date": "2017-10-11T16:14:01.238Z",
+        "title": "Trust You Intuition — It Never Lies",
+        "description": "Listening To Your Intuition",
+        "author": "KatieMae",
+        "image": "https://cdn-images-1.medium.com/max/800/1*CPUniKmw6mCiz7iqRut4ZA.jpeg"
+      },
+      {
+        "id": "7b9f439e65a2",
+        "link": "https://medium.com/@andrewmerle/why-grit-isnt-enough-7b9f439e65a2?source=reading_list---8------1----------------",
+        "date": "2017-10-11T15:31:21.766Z",
+        "title": "Why Grit Isn’t Enough",
+        "description": "Many of us become so focused and determined to reach a goal, that we create tunnel vision in our relentless pursuit of the end result.",
+        "author": "Andrew Merle",
+        "image": "https://cdn-images-1.medium.com/max/800/1*-20oUUryud1eJZimkeBYow.jpeg"
+      },
+      {
+        "id": "87e20b3aac51",
+        "link": "https://medium.com/inc./five-ways-to-get-your-mojo-back-87e20b3aac51?source=reading_list---8------2----------------",
+        "date": "2017-10-11T13:28:36.512Z",
+        "title": "Five Ways to Get Your Mojo Back",
+        "description": "When life knocks you off your game, you can lose your confidence and passion. Here are five things that can help you get your mojo back.",
+        "author": "inc. magazine",
+        "image": "https://cdn-images-1.medium.com/max/800/1*n5tHYht9DuCFGuDwvY4-jw.jpeg"
+      },
+      {
+        "id": "26042398f543",
+        "link": "https://medium.com/@catalinmatei/the-anti-mistakes-culture-what-keeps-young-people-from-succeeding-26042398f543?source=reading_list---8------3----------------",
+        "date": "2017-10-11T06:31:38.022Z",
+        "title": "The Anti-Mistakes Culture: What Keeps Young People From Succeeding",
+        "description": "You know what you want. Really. Deep down you secretly know, and you don’t really want to admit it. You’re shrugging your shoulders…",
+        "author": "Catalin Matei",
+        "image": "https://cdn-images-1.medium.com/max/800/1*5QxMM9pFSj5jlBm8MQtyZg.jpeg"
+      },
+      {
+        "id": "89f6d773b127",
+        "link": "https://medium.com/the-cut/im-a-coward-89f6d773b127?source=reading_list---8------4----------------",
+        "date": "2017-10-10T18:26:23.269Z",
+        "title": "I’m a Coward",
+        "description": "By Liz Meriwether",
+        "author": "The Cut",
+        "image": "https://cdn-images-1.medium.com/max/800/1*wzFL98vfqRIFS9liIKwwbg.jpeg"
+      }
+    ]
+  },
+  {
+    "name": "Politics",
+    "stories": [
+      {
+        "id": "4c8c8e1299f7",
+        "link": "https://medium.com/bloomberg/chicago-tax-repeal-shifts-momentum-in-favor-of-soda-industry-4c8c8e1299f7?source=reading_list---8------0----------------",
+        "date": "2017-10-12T16:42:39.561Z",
+        "title": "Chicago Tax Repeal Shifts Momentum in Favor of Soda Industry",
+        "description": "Momentum has shifted in the battle over taxing sugary beverages.",
+        "author": "Bloomberg",
+        "image": "https://cdn-images-1.medium.com/max/800/1*Ie_zvKszG3GhdL7tvrt6yg.jpeg"
+      },
+      {
+        "id": "6d7025d24204",
+        "link": "https://medium.com/the-intercept/the-airport-bomber-from-last-week-you-never-heard-about-6d7025d24204?source=reading_list---8------1----------------",
+        "date": "2017-10-11T00:00:00.000Z",
+        "title": "The Airport Bomber From Last Week You Never Heard About",
+        "description": "By Shaun King",
+        "author": "The Intercept",
+        "image": "https://cdn-images-1.medium.com/max/800/1*pg3H1E21ew89ZCY1G2G_GQ.png"
+      },
+      {
+        "id": "6c47b1fe16a",
+        "link": "https://arcdigital.media/public-servants-and-their-private-jets-6c47b1fe16a?source=reading_list---8------2----------------",
+        "date": "2017-10-12T12:23:55.921Z",
+        "title": "Public Servants And Their Private Jets",
+        "description": "Above the clouds. High above us all.",
+        "author": "Berny Belvedere",
+        "image": "https://cdn-images-1.medium.com/max/800/1*74llHFTx9VqFINLJCjrxkw.png"
+      },
+      {
+        "id": "71587105fa97",
+        "link": "https://medium.com/financial-times/the-liberal-siren-song-on-silicon-valley-71587105fa97?source=reading_list---8------3----------------",
+        "date": "2017-10-11T19:44:31.487Z",
+        "title": "The liberal siren song on Silicon Valley",
+        "description": "Democrats should be wary of assuming voters share their anxieties about Big Tech.",
+        "author": "The Financial Times",
+        "image": "https://cdn-images-1.medium.com/max/800/1*tsI21F-GR4zmVlt5o_ASzw.jpeg"
+      },
+      {
+        "id": "ecb8a2ccce77",
+        "link": "https://medium.com/@benjaminsledge/honest-thoughts-from-a-veteran-about-takeaknee-and-protesting-our-national-anthem-ecb8a2ccce77?source=reading_list---8------4----------------",
+        "date": "2017-10-11T17:01:18.984Z",
+        "title": "Honest Thoughts From a Veteran About #TakeAKnee and Protesting Our National Anthem",
+        "description": "It’s not what you think",
+        "author": "Benjamin Sledge",
+        "image": "https://cdn-images-1.medium.com/max/800/1*MWC5kdaZySdIGj2jfnw2NA.jpeg"
+      }
+    ]
+  }
+]
