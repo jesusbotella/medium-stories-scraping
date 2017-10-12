@@ -12,7 +12,8 @@ const puppeteer = require('puppeteer');
     
     const mediumHomeInformation = await page.evaluate(() => {
         // The content of this function is executed inside the browser,
-        // so we need to declare utility functions inside this code block
+        // so we need to declare utility functions inside this code block.
+        // Otherwise, they'll be undefined when executing the code.
 
         function getURLfromBackgroundImage(backgroundImageString) {
             return backgroundImageString.replace(/^url\(['"](.+)['"]\)/, '$1');
@@ -31,16 +32,16 @@ const puppeteer = require('puppeteer');
             const posts = section.querySelectorAll('.js-trackedPost');
 
             return Array.from(posts).map(post => {
-                const postIdElement = post.getAttribute('data-post-id');
-                const postLinkElement = post.querySelector('a[href]').getAttribute('href');
+                const postId = post.getAttribute('data-post-id');
+                const postLink = post.querySelector('a[href]').getAttribute('href');
                 const postTitleElement = post.querySelector('h3');
                 const postDescriptionElement = post.querySelector('h4');
                 const postAuthorElement = post.querySelector('.postMetaInline-authorLockup > a');
                 const postImageElement = post.querySelector('.u-block.u-backgroundSizeCover');
 
                 return {
-                    id: postIdElement,
-                    link: postLinkElement,
+                    id: postId,
+                    link: postLink,
                     title: postTitleElement && postTitleElement.innerText,
                     description: postDescriptionElement && postDescriptionElement.innerText,
                     author: postAuthorElement && postAuthorElement.innerText,
