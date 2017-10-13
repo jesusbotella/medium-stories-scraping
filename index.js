@@ -10,7 +10,7 @@ const puppeteer = require('puppeteer');
     // Go to medium.com page
     await page.goto('https://medium.com', { waitUntil: 'networkidle' });
     
-    const mediumHomeInformation = await page.evaluate(() => {
+    const mediumStoriesGroupedByCategory = await page.evaluate(() => {
         // The content of this function is executed inside the browser,
         // so we need to declare utility functions inside this code block.
         // Otherwise, they'll be undefined when executing the code.
@@ -20,32 +20,33 @@ const puppeteer = require('puppeteer');
         }
 
         function extractHomeFeedSections() {
-            const homeSections = document.querySelectorAll('.js-homeStream > .streamItem');
-            return Array.from(homeSections).map(section => section.children[0]);
+            return Array.from(document.querySelectorAll('.js-homeStream > .streamItem > section'));
         }
         
         function extractSectionName(section) {
             return section.querySelector('header a').innerText;
         }
         
-        function extractPostsInformation(section) {
-            const posts = section.querySelectorAll('.js-trackedPost');
+        function extractStoriesInformation(section) {
+            const stories = Array.from(section.querySelectorAll('.js-trackedPost'));
 
-            return Array.from(posts).map(post => {
-                const postId = post.getAttribute('data-post-id');
-                const postLink = post.querySelector('a[href]').getAttribute('href');
-                const postTitleElement = post.querySelector('h3');
-                const postDescriptionElement = post.querySelector('h4');
-                const postAuthorElement = post.querySelector('.postMetaInline-authorLockup > a');
-                const postImageElement = post.querySelector('.u-block.u-backgroundSizeCover');
+            return stories.map(story => {
+                const storyId = story.getAttribute('data-post-id');
+                const storyLink = story.querySelector('a[href]').getAttribute('href');
+                const storyDate = story.querySelector('time').getAttribute('datetime');
+                const storyTitleElement = story.querySelector('h3');
+                const storyDescriptionElement = story.querySelector('h4');
+                const storyAuthorElement = story.querySelector('.postMetaInline-authorLockup > a');
+                const storyImageElement = story.querySelector('.u-block.u-backgroundSizeCover');
 
                 return {
-                    id: postId,
-                    link: postLink,
-                    title: postTitleElement && postTitleElement.innerText,
-                    description: postDescriptionElement && postDescriptionElement.innerText,
-                    author: postAuthorElement && postAuthorElement.innerText,
-                    image: postImageElement && getURLfromBackgroundImage(postImageElement.style['background-image']),
+                    id: storyId,
+                    link: storyLink,
+                    date: storyDate,
+                    title: storyTitleElement && storyTitleElement.innerText,
+                    description: storyDescriptionElement && storyDescriptionElement.innerText,
+                    author: storyAuthorElement && storyAuthorElement.innerText,
+                    image: storyImageElement && getURLfromBackgroundImage(storyImageElement.style['background-image']),
                 }
             });
         }
@@ -54,16 +55,16 @@ const puppeteer = require('puppeteer');
 
         return sections.map(section => {
             const sectionName = extractSectionName(section);
-            const sectionPosts = extractPostsInformation(section) || [];
+            const sectionStories = extractStoriesInformation(section) || [];
 
             return {
                 name: sectionName,
-                posts: sectionPosts
+                stories: sectionStories
             };
         });
     });
 
-    console.log(mediumHomeInformation);
+    console.log(JSON.stringify(mediumStoriesGroupedByCategory, null, 2));
 
     await browser.close();
 })();
