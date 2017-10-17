@@ -1,5 +1,5 @@
 # Medium Stories Scraping
-Code from Medium's `Scraping Medium’s home stories with headless Google Chrome` article.
+Code from Medium's [`Scraping Medium’s home stories with headless Google Chrome`](https://medium.com/@jesus.botella/scraping-mediums-home-stories-with-headless-google-chrome-672f52cf12b9) article.
 
 This article explains how to scrape Medium's homepage stories, using [Google Chrome's Puppeteer library](https://github.com/GoogleChrome/puppeteer).
 
